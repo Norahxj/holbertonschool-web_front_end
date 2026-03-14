@@ -1,0 +1,30 @@
+/* Smooth scrolling */
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Set foreground color of body */
+body {
+  color: #161616;
+}
+
+/* Set foreground color for all links */
+a {
+  color: #161616;
+}
+
+/* Hide visually hidden elements */
+.visually-hidden {
+  display: none;
+}
+
+/* Card category color */
+.card-category {
+  color: #D73953;
+}
+
+/* Section tagline color */
+.section-tagline {
+  color: #D73953;
+}
